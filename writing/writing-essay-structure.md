@@ -33,7 +33,7 @@
 	*	1.1.1 **General description**
 
 		总体描述（人物+动作+环境或数据变化规律），1句<br/>
-		As is vividly illustrated in the drawing, there is a ...
+		It is subtly illustrated in the drawing that
 
 	*	1.1.2 **Details**
 
