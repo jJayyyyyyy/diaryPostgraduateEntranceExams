@@ -16,7 +16,7 @@
 
 *	**For instance**, not all parents are aware of the fact that their behavior might have a great impact on their offspring. **Unfortunately,** all parents more or less have some bad habits, such as smoking or swearing, which may lead to a disappointing outcome. (举例论证)
 
-*	**Another reason is that** parents nowadays are fully occupied with their job. **As a result**, they are too tired to have enough energy to study with their children when returning home. **Even worse** is that lots of parents like watching TV as a way of relaxation. It is impossible, however, for children to concentrate on their homework in this condition with all that noise around. (举例论证)
+*	**Another reason is that** parents nowadays are fully occupied with their job. **As a result**, they are too tired to have enough energy to study with their children when returning home. **Even worse** is that lots of parents like watching TV as a way of relaxation. It is impossible, **however,** for children to concentrate on their homework in this condition with all that noise around. (举例论证)
 
 *	**Therefore**, although parents are the first teachers, not all of them are good ones. (**段尾小结，呼应段首，基本上就是换个说法把第一句再说一遍**)
 
@@ -24,9 +24,9 @@
 
 ####	第三段, your comments, (1.你对这种现象的态度, 2.解决方案), 最后一句展望、感叹
 
-*	**In my personal view**, parents should pay much more attention in the presence of their children and set a good model to them. (你的**主观态度/看法**)
+*	**In my personal view**, parents should **pay much more attention** in the presence of their children and set a good model to them. (你的**主观态度/看法**)
 
-*	**Hence it is a better idea to** read some books with children instead of turning on the TV. **Moreover,** parents should try to give up their bad habits. (解决方案，针对你所举的两个例子，分别给出相应解法)
+*	**Hence it is a better idea to** read some books with children **instead of** turning on the TV. **Moreover,** parents should try to give up their bad habits. (解决方案，针对你所举的两个例子，分别给出相应解法)
 
 *	**Family and children are always the first priority. Only when you put your words into effort (practice what you preach) will you get a good result.** (强调，展望，etc，收尾点题)
 
