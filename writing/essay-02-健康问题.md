@@ -4,7 +4,7 @@
 
 *	**It is subtly illustrated in the drawing that** a doctor and a patient are in a hospital ward. (总体描述)
 
-*	The doctor who wears a white robe with a notebook in his hand is talking to the sitting patient. (人物穿着、动作，状态，场景细节)
+*	**The image shows that** the doctor who wears a white robe with a notebook in his hand is talking to the sitting patient. (人物穿着、动作，状态，场景细节)
 
 *	**Then it is captioned below, which suggests that** the patient should spend more time doing outdoor activities. (翻译图中文字，或者换个方式表达注释)
 
@@ -24,9 +24,9 @@
 
 ####	第三段，3~4句，(1.你对这种现象的态度, 2.解决方案), 最后一句展望、感叹
 
-*	**In my personal view,** much more attention should be paid when it comes to one's health, for everything else is based on that. (你的主观态度/看法)
+*	**In my personal view, much more attention should be paid** when it comes to one's health, for everything else is based on that. (你的主观态度/看法)
 
-*	**Hence it is a better idea to** play basketball with friends instead of chatting online for hours. **Moreover**, outdoor sports can be a more effective way to relax yourself both mentally and physically. (解决方案，针对你所举的两个例子，分别给出相应解法)
+*	**Hence it is a better idea to** play basketball with friends **instead of** chatting online for hours. **Moreover**, outdoor sports can be a more effective way to relax yourself both mentally and physically. (解决方案，针对你所举的两个例子，分别给出相应解法)
 
 *	**All in all,** only if we exercise periodically can we keep a good health condition. (收尾点题)
 
