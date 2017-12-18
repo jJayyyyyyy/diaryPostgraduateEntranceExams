@@ -16,7 +16,7 @@
 
 *	图中展现了父母和孩子，那就从这两方面举例论证。1).父母溺爱，或者没有提前意识到培养孩子独立性的重要性。2).孩子自己的问题，比如沉迷网络，不愿接触现实。
 
-*	**For instance**, a lot of families have only one child, who is carefully cherished and protected by the parents from the outside world. **As we all know**, animals that are isolated in the zoo for too long will be unable to survive in the wild. **Likewise,** children who have been long under the shelter of their parents will lose the confidence to face the society. (举例论证)
+*	**For instance**, a lot of families have only one child, who is carefully cherished and protected by the parents from the outside world. **As we all know**, animals that are isolated in the zoo for too long will be unable to survive in the wild. **Likewise,** children who have been long under the shelter of their parents will lose the capacity to face the society. (举例论证)
 
 *	**Another reason is that** many yound people **are fully occupied with** the virtual world of Internet where they can get rid of the toughness of the reality. (举例论证)
 
