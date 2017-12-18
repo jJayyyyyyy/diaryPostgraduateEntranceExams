@@ -2,11 +2,11 @@
 
 ####	第一段description
 
-*	**It is subtly illustrated in the drawings that** a family is walking around. (总体描述)
+*	**It is subtly illustrated in the drawing that** a family is walking around. (总体描述)
 
 *	**The image shows that** the white-haired parents is looking after their son, who is apparently a grown-up but still sitting in a baby carriage comfortably. (人物穿着、动作，状态，场景细节)
 
-*	**Then it is captioned below, which suggests:** "Self-Independence." (翻译图中文字，或者换个方式表达)
+*	**Then it is captioned below which suggests:** "Self-Independence." (翻译图中文字，或者换个方式表达)
 
 <br/>
 
