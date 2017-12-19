@@ -36,9 +36,9 @@
 
 *	**In my personal view, much more attention should be paid** to help young people to stand on their feet. (你的**主观态度/看法**)
 
-*	**Hence it is a better idea** for them to take part in more practical social activities **instead of** staying at home. **Moreover,** more internship experience should be provided for young people so that they can get used to the pace of society. (解决方案，针对你所举的两个例子，分别给出相应解法)
+*   **Therefore** more internship opportunities should be provided for young people so that they can get used to the pace of society. (精简版的解决方案)
 
-*	**Young people are the future of the country. Only when enough effort is made can they integrate into the society more efficiently and have a brighter future.** (强调，展望，etc，收尾点题)
+*	**Only in this way can they integrate into the society more efficiently and have a brighter future.** (强调，展望，etc，收尾点题)
 
 <br/><br/>
 
@@ -55,3 +55,5 @@
 *   keep up with / get accustomed to / get used to
 
 *   original/intrinsic/instinctive
+
+*	**Hence it is a better idea** for them to take part in more practical social activities **instead of** staying at home. **Moreover,** more internship experience should be provided for young people so that they can get used to the pace of society. (解决方案，针对你所举的两个例子，分别给出相应解法) (PS: 太长了，换成精简版，一个解决方案就够了，或者两个写到一起)
