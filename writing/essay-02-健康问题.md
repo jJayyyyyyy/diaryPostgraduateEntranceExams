@@ -12,7 +12,7 @@
 
 ####  第二段，5~6句，客观现象
 
-*	**What can be inferred from the picture is that** people nowadays are doing less and less exercise, **the reason of which can be various.** (你推出的 客观 结论，论点。为此你需要进行论证，举2个例子，说明为什么会出现上述情况)
+*	**What can be inferred from the picture is that** people nowadays are doing less and less exercise, **the reasons of which can be various.** (你推出的 客观 结论，论点。为此你需要进行论证，举2个例子，说明为什么会出现上述情况)
 
 *	**For instance, not all people are aware of the importance of** regular exercise. **Even worse is that** there are things more attractive to them, such as mobile applications, which have the magical ability to keep their body away from movement. (举例论证)
 
