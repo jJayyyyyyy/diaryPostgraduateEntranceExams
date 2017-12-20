@@ -20,11 +20,11 @@ Dear **Mr. Wang**,
 
 <br/>
 
-##	2006请求信，辞职信
+##	2006，请求信
 
 ####	结构
 
-*	第一段，背景，原因，想要做什么
+*	第一段，背景，自我介绍，原因，想要做什么
 *	第二段，具体展开请求，细节2~3点
 *	第三段，具体实施方案
 
@@ -39,3 +39,27 @@ Dear **Sir or Madam**,
 　　**My plan is to** pay for her tuition on an annual basis until she finishes her secondary education. I **would like** to remit my donation directly to a bank account opened by her family in her local area. I am looking forward to your prompt reply.
 
 <div align="right"><p>Yours truly,</p><p>Li Ming　</p></div>
+
+<br/>
+
+##	2007，建议信
+
+Write a letter to your university library, making suggestions for improving its service.
+
+####	结构
+
+*	第一段，自我介绍，写信目的：给图书馆提建议(先肯定总体，再提建议)
+*	第二段，建议的具体展开，2点
+*	第三段，表示感谢，期待关注
+
+####	范文
+
+Dear **Sir or Madam**,
+
+　　I am a university student and I always spend my spare time in the library. **Generally speaking, the services offered here are quite good. However, I have some suggestions for your consideration.**
+
+　　**Firstly, will you please** renew the old air conditioners? It is annoying that they usually produce big noise. **Secondly**, some of the books on the shelves are out of date. It would be of great help if you could provide us with some more recent publications. (建议+理由, 2*2)
+
+　　It would be greatly appreciated if those suggestions could be taken into account. Thank you for your time and consideration.
+
+<div align="right"><p>Yours sincerely,</p><p>Li Ming　</p></div>
