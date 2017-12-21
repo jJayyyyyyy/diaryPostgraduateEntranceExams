@@ -128,6 +128,8 @@ Dear **Sir or Madam**,
 
 ####	范文
 
+Dear Editors,
+
 　　**I have been reading your newspaper for many years with great interest.** **In regard to the recent topic of** disposable plastic bags, **it is my view that** limiting the use of such bags **is of the most significance.**
 
 　　**Therefore my solutions are as follows.** **Firstly, it is imperative to** ban the free use of disposable plastic bags. **Thus,** plastic bags should be offered at a much higher price. **Secondly,** alternative environmentally friendly products should be developed and promoted to replace plastic bags.
@@ -164,6 +166,8 @@ Dear **Mr. President,**
 *	第一段，应该加强管理和规范
 *	第二段，防止随意停放，加强信息引导，
 
+Dear Mr. President,
+
 　　**I have been reading your newspaper for many years with great interest.** **In regard to the recent topic of** bike sharing, **it is my view that** regulating the use of bikes **is of the most significance.**
 
 　　**Therefore my solutions are as follows.** **Firstly, it is imperative to** prevent users from placing bikes at will. **Thus,** information of parking lots should be given to users as a guidance. **Secondly,** mainstream medias should help to improve people's awareness of compliance with social norms.
@@ -179,6 +183,8 @@ Dear **Mr. President,**
 *	表达欢迎
 *	具体建议
 *	祝福
+
+Dear friends,
 
 　　**On behalf of the Students' Union,** I would like to extend our heartfelt welcome to all international students.
 
@@ -236,21 +242,22 @@ Dear **Professor Cook**,
 
 ####	要点
 
-*	读书会（+时间地点）
-*	简述书/电影的内容
+You are going to host a club reading session. Write an email recommending a book to the club members.
+
+*   自我介绍+写信目的，读书会（+时间地点）
 *	理由（比如这本书很infomative, fascinating, 讲述了什么道理）
 
 ####	范文1: <2015年: 读书会，推荐一本书>
 
 Dear friends,
 
-　　There will be a club reading session **at 5 p.m. next Saturday**. Everyone will have a chance to share his or her favorite book. 
+　　As the host of the upcoming reading session, which will be held **at 5 p.m. next Friday**, I am writing this email to recommend to you my favorite book, Harry Potter.
 
-　　For my part, I can't wait to recommend a book named *The Moon and Sixpence* to you, which was written by W.S.Maugham. **To be honest, it's lucky for me to run into this book when I was wandering in the library.** The book depicts a story of a conventional stockbroker who abandons his family for Paris to live his life as a painter. Though his decision seems weird, he finally achieves greatness.
+　　There are many reasons of my sharing. Firstly, it vividly depicts a magic world of wizards and witches with dragons flying in the air. Secondly, it is a warm story of love, friendship and faith. And I am greatly touched by the braveness of the heroes. To be honest, it's lucky for me to run into this book when I was wandering in the library.
 
-　　**The novel is very informative and fascinating. Hopefully you will also enjoy this book.**
+　　**The novel is very informative and fascinating. To be honest, it's lucky for me to run into this book when I was wandering in the library. Hopefully you will also enjoy it.**
 
-<div align="right"><p>Yours faithfully,</p><p>Li Ming　</p></div>
+<div align="right"><p>Yours faithfully,</p><p>Li Ming　　　　</p></div>
 
 ####	补充句式
 
@@ -367,7 +374,7 @@ Dear Sir or Madam,
 
 　　I am a third year student majoring in electronics. I am seeking your assistance to help me get the financial aid this year.(自我介绍，目的)
 
-　　**Firstlt,** it is hard for me to cover the tuition because of my poor family financial condition. **Secondly,** this year I need more time for my courses and can not afford much time for part time jobs.(理由，家境不好，课程紧没时间打工)
+　　**Firstly,** it is hard for me to cover the tuition because of my poor family financial condition. **Secondly,** this year I need more time for my courses and can not afford much time for part time jobs.(理由，家境不好，课程紧没时间打工)
 
 　　**It would be greatly appreciated if you could help me find out more information about the application. Your prompt attention to this issue would be highly regarded.**
 
