@@ -8,6 +8,10 @@
 
 ####	2.结合材料(抄)
 
+一定要突出重点，最关键的拿分点写在最前面。
+
+分点答题，第一，第二，第三。
+
 <br/><br/>
 
 ##	英语
@@ -28,7 +32,74 @@
 
 ####	4.作文
 
-*	至少留出1h，字写大，写工整
+*	至少留出1h，字写大，写工整。
+*	时态以一般现在时为主。
+
+*	小作文
+
+	*	称谓
+
+		*	Dear Professor Cook,		
+		*	Dear Mr. Brown,
+		*	Dear Mr. President,
+		*	Dear Bob,
+		*	Dear Editors,
+		*	Dear friends,
+		*	Dear Sir or Madam,
+
+	*	第一段，自我介绍，我是谁，我代表谁；写信目的
+	
+		*	I am a university student and I am writing to ...
+		*	On behalf of the Students' Union, I am writing to ...
+		*	I have been reading your newspaper for many years with great interest. In regard to the recent topic of bike sharing, it is my view that ...
+
+	*	第二段，详细展开目的
+	
+		*	Firstly,
+		*	Secondly,
+		*	Therefore,
+
+	*	第三段
+	
+		*	I hope that the suggestions above will be of help. Your prompt attention would be highly appreciated/regarded.
+		*	For more information, please visit us at stu.abc.edu.cn. I hope that all of you will enjoy your campus life here.
+
+	*	署名
+
+		*	Yours sincerely(如果是Notice则不需要这句)
+		*	Li Ming(对齐Yours)
+
+	小作文，只要拿到基本分数就好。格式对，不出错，提纲写全了，拿个4分没问题。
+
+*	大作文
+
+	*	第一段
+	
+		*	It is illustrated in the drawings that ... 
+		*	In the first image, ... On the contrary, the second person ... 
+		*	Then it is captioned which suggests, "..."
+
+	*	第二段
+	
+		*	What can be inferred from above is that ..., the reasons of which can be various.
+		*	For instance, not all people are aware of the importance of ... 
+		*	Even worse is that ... 
+		*	Another reason is that modern people are fully occupied with their jobs. 
+		*	As a result, they are too tired to have enough energy to ... when returning home.
+		*	Therefore, many people are becoming reluctant to ...
+	
+	*	第三段
+
+		*	In my personal view, more attention should be paid to ...
+		*	Above all, ...
+		*	Hence it is a better idea to ... instead of ...
+		*	Only in this way can we enrich our life and have a brighter future. 
+
+	框架的每一句，直接写，然后补充所需的内容。比如2015真题，先写`It is illustrated in the drawing that`，然后填上图片内容`four people sit at a desk.`
+
+	框架不用打草稿，内容可以打草稿。
+	
+	要写稳，字要写大写好。大作文可以控制在30min以内的，不要慌。
 
 <br/><br/>
 
